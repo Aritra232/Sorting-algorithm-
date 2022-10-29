@@ -1,2 +1,2 @@
 # Sorting-algorithm-
-Here some sorting algorithm in c++ and there time complexity is different 
+Here some techniques to sort data in ascending or descending order using c++ language and there time complexity is different 
